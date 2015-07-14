@@ -87,7 +87,6 @@ a:hover
 	background-image:url("http://cdn2.itpro.co.uk/sites/itpro/files/server_room.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
-
 }
 
 .jumbotron .container {
@@ -124,6 +123,9 @@ color:#C0C0C0 ;
 	background-image:url("images/content background.png");
 	padding-top:20px;
 	text-align:center;
+	-moz-box-shadow:    inset 0 0 10px #000000;
+   -webkit-box-shadow: inset 0 0 10px #000000;
+   box-shadow:         inset 0 0 10px #000000;
 }
 
 .details h1 {
